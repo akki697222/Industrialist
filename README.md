@@ -7,6 +7,7 @@ Only the quest chapters are in English.
 Since the icon is not yet available, this icon is used temporarily.
 
 - Overview
+
 There are many quests available. It also includes multiple industrial mods, and the number of mods is about 100. 
 Basically, I'm trying to make it with a focus on balance, but if you find anything odd, please let me know.
 I create a relatively large number of quests.
