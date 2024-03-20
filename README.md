@@ -1,3 +1,5 @@
+https://curseforge.com/minecraft/modpacks/industrialist-balanced-modpack
+
 Warning!
 
 All quests in this modpack are written in Japanese, and currently there are no translations into other languages.
